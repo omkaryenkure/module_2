@@ -1,0 +1,51 @@
+body{
+    background-color: gainsboro;
+}
+h1{
+    color: red;
+    text-align: center;
+    text-decoration-style: solid;
+    
+}
+h2{
+    text-align: center;
+    width: 80px;
+    height: 10px;
+     margin: 0px;
+    padding: 20px;
+    background-color: red;
+    border: 2px solid black;
+    float: right;
+    clear: right;
+
+}
+.chicken{
+    width: 400px;
+    height: 200px;
+    background-color: burlywood;
+    margin: 10px;
+    padding: 0px;
+    border: 2px solid black;
+    box-sizing: border-box;
+    float: left;
+}
+.Shushi{
+    width: 400px;
+    height: 200px;
+    background-color: burlywood;
+    margin: 10px;
+    padding: 0px;
+    border: 2px solid black;
+    box-sizing: border-box;
+    float: left;
+}
+.Beef{
+    width: 400px;
+    height: 200px;
+    background-color: burlywood;
+    margin: 10px;
+    padding: 0px;
+    border: 2px solid black;
+    box-sizing: border-box;
+    float: left;
+}
